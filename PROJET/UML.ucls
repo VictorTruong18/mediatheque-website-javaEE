@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <package id="1" language="java" name="persistantdata" project="PROJET" file="/PROJET/src/persistantdata" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="271" width="372" x="231" y="105"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="2" language="java" name="persistantdata.Doc" project="PROJET" file="/PROJET/src/persistantdata/Doc.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="129" x="244" y="176"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="persistantdata.MediathequeData" project="PROJET" 
+    file="/PROJET/src/persistantdata/MediathequeData.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="56" width="228" x="278" y="287"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="persistantdata.Usager" project="PROJET" 
+    file="/PROJET/src/persistantdata/Usager.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="56" width="174" x="402" y="175"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="5" language="java" name="services" project="PROJET" file="/PROJET/src/services" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="381" width="515" x="747" y="89"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="6" language="java" name="services.AjouterDocument" project="PROJET" 
+    file="/PROJET/src/services/AjouterDocument.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="202" x="754" y="165"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="services.EmprunterDocument" project="PROJET" 
+    file="/PROJET/src/services/EmprunterDocument.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="56" width="200" x="755" y="232"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="services.Login" project="PROJET" file="/PROJET/src/services/Login.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="208" x="772" y="404"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="services.NouveauDocument" project="PROJET" 
+    file="/PROJET/src/services/NouveauDocument.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="56" width="204" x="767" y="309"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="services.RendreDocument" project="PROJET" 
+    file="/PROJET/src/services/RendreDocument.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="57" width="189" x="999" y="166"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="services.RetourAccueil" project="PROJET" 
+    file="/PROJET/src/services/RetourAccueil.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="187" x="992" y="243"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="services.ServicesAbonnes" project="PROJET" 
+    file="/PROJET/src/services/ServicesAbonnes.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="223" x="995" y="321"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="13" language="java" name="mediatek2020" project="PROJET" 
+    file="/Users/victortruong/Documents/Cours - Paris Descartes/S4/PROJET JAVAEE FINAL/mediathek.jar" binary="true" 
+    corner="BOTTOM_RIGHT">    
+    <position height="324" width="583" x="135" y="460"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="14" language="java" name="mediatek2020.Mediatheque" project="PROJET" 
+    file="/Users/victortruong/Documents/Cours - Paris Descartes/S4/PROJET JAVAEE FINAL/mediathek.jar" binary="true" 
+    corner="BOTTOM_RIGHT">    
+    <position height="55" width="228" x="181" y="678"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="15" language="java" name="mediatek2020.PersistentMediatheque" project="PROJET" 
+    file="/Users/victortruong/Documents/Cours - Paris Descartes/S4/PROJET JAVAEE FINAL/mediathek.jar" binary="true" 
+    corner="BOTTOM_RIGHT">    
+    <position height="56" width="178" x="161" y="538"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="16" language="java" name="mediatek2020.items.Document" project="PROJET" 
+    file="/Users/victortruong/Documents/Cours - Paris Descartes/S4/PROJET JAVAEE FINAL/mediathek.jar" binary="true" 
+    corner="BOTTOM_RIGHT">    
+    <position height="56" width="168" x="352" y="535"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="17" language="java" name="mediatek2020.items.Utilisateur" project="PROJET" 
+    file="/Users/victortruong/Documents/Cours - Paris Descartes/S4/PROJET JAVAEE FINAL/mediathek.jar" binary="true" 
+    corner="BOTTOM_RIGHT">    
+    <position height="56" width="161" x="546" y="542"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <dependency id="18">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <dependency id="19">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <dependency id="20">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="21">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="22">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="23">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
